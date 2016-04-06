@@ -1,0 +1,24 @@
+[Desktop Entry]
+Name=Breeze Flat
+X-KDE-PluginInfo-Author=KDE Visual Design Group
+X-KDE-PluginInfo-Email=kde-artists@kde.org
+X-KDE-PluginInfo-Name=breeze-flat
+X-KDE-PluginInfo-Version=0.9.7
+X-KDE-PluginInfo-Website=http://plasma.kde.org
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultWallpaperTheme=Flat
+defaultFileSuffix=.png
+defaultWidth=2560
+defaultHeight=1600
+
+[ContrastEffect]
+enabled=true
+contrast=0.2
+intensity=0.4
+saturation=1.7
